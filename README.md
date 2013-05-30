@@ -2,4 +2,4 @@
 
 Another exercise in making a filterable and sortable gantt chart.
 
-(View demo)[http://mhkeller.github.io/d3-gantt-isotope]
+[View demo](http://mhkeller.github.io/d3-gantt-isotope)
