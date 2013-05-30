@@ -1,4 +1,4 @@
-# A filterable and sortable Gantt Chart using D3.js and Isotope.js
+## A filterable and sortable Gantt Chart using D3 and Isotope
 
 Another exercise in making a filterable and sortable gantt chart.
 
